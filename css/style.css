@@ -21,7 +21,6 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: #1b242f;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
